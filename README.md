@@ -1,17 +1,37 @@
-# calculator
-# Basic Calculator 🧮
+# Basic Calculator Projects 🧮
 
-A simple command-line calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This repository contains simple command-line calculator implementations in both Python and Java.
 
-## Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
-- Input validation for incorrect values
+---
 
-## Technologies Used
-- Python 3
+## 📂 Project Structure
 
-## How to Run
-1. Clone the repository:
+- `python-project/` → Contains the Python version of the calculator.
+- `java-project/` → Contains the Java version of the calculator.
+
+---
+
+## 🐍 Python Calculator
+
+A simple command-line calculator that performs arithmetic operations.
+
+### How to Run (Python)
+1. Navigate to the Python folder:
+2. Run the script:
+
+---
+
+## ☕ Java Calculator
+
+A command-line calculator implemented in Java with basic arithmetic operations.
+
+### How to Run (Java)
+1. Navigate to the Java folder:
+2. Compile the Java file:
+3. Run the program:
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
